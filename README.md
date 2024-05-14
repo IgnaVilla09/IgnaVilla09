@@ -17,7 +17,7 @@ Soy dinámico y en constante búsqueda de conocimiento, siempre explorando nueva
 - CSS
 - React.js
 - Express.js
-- React Native
+- React Native (En proceso)
 - MongoDB
 - MySQL
 
