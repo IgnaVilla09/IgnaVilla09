@@ -1,7 +1,7 @@
 
 # Hola! Soy Ignacio Villafañe 👋
 
-Desarrollador junior fullstack web con enfoque en tecnologías frontend y backend, con experiencia en React.js, HTML, CSS, Node Express.js, y bases de datos como MongoDB y MySQL. Apasionado por el desarrollo completo de aplicaciones web y siempre en búsqueda de nuevos retos para crecer profesionalmente.
+Desarrollador junior fullstack web con enfoque en tecnologías frontend y backend, con experiencia en React.js, HTML, CSS, Node Express.js, y bases de datos relacionales y no relacionales (MongoDB y MySQL). Apasionado por el desarrollo completo de aplicaciones web y siempre en búsqueda de nuevos retos para crecer profesionalmente. Actualmente formandome en desarrollo Movil (React Native)
 
 
 
