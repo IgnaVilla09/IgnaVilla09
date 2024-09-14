@@ -16,12 +16,14 @@ Soy dinámico y en constante búsqueda de conocimiento, siempre explorando nueva
 ## 🛠 Skills
 - HTML
 - CSS
+- Javascript
 - React.js
 - Node Express.js
-- React Native (En proceso)
+- React Native
 - MongoDB
 - MySQL
-
+- SQLite
+- PostgreSQL
 
 
 
