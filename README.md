@@ -16,9 +16,10 @@ Soy dinámico y en constante búsqueda de conocimiento, siempre explorando nueva
 | 🛠 Skills                         |                                                                 
 | ----------------- |
 ![HTML]( https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5) |  
-| ![CSS]( https://img.shields.io/badge/html-grey?style=for-the-badge&logo=css3) | 
+| ![CSS]( https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3) | 
 | ![Tailwind]( https://img.shields.io/badge/TailwindCSS-grey?style=for-the-badge&logo=tailwindcss) | 
 | ![Javascript]( https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript) |   
+| ![TypeScript]( https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=TypeScript) | 
 ![react]( https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=react) |  
 ![ReactNative]( https://img.shields.io/badge/ReactNative-grey?style=for-the-badge&logo=react) |  
 ![Next]( https://img.shields.io/badge/NextJs-grey?style=for-the-badge&logo=nextdotjs) |
